@@ -36,7 +36,7 @@ const IndexPage: React.FC<PageProps> = () => {
         </a>
         <br />
         <a
-          href="https://juejin.cn/user/2436173499470167/posts"
+          href="https://juejin.cn/user/2436173499470167"
           target="__blank"
           className={aLinkClass}
         >
